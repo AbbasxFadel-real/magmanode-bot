@@ -1,0 +1,2 @@
+# magmanode-bot
+dfg
